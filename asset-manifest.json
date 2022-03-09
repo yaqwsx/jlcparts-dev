@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jlcparts-dev.honzamrazek.cz/static/css/main.1d5ee949.chunk.css",
+    "main.js": "https://jlcparts-dev.honzamrazek.cz/static/js/main.daf8e87e.chunk.js",
+    "main.js.map": "https://jlcparts-dev.honzamrazek.cz/static/js/main.daf8e87e.chunk.js.map",
+    "runtime-main.js": "https://jlcparts-dev.honzamrazek.cz/static/js/runtime-main.d521a0fc.js",
+    "runtime-main.js.map": "https://jlcparts-dev.honzamrazek.cz/static/js/runtime-main.d521a0fc.js.map",
+    "static/js/2.63e34fe3.chunk.js": "https://jlcparts-dev.honzamrazek.cz/static/js/2.63e34fe3.chunk.js",
+    "static/js/2.63e34fe3.chunk.js.map": "https://jlcparts-dev.honzamrazek.cz/static/js/2.63e34fe3.chunk.js.map",
+    "index.html": "https://jlcparts-dev.honzamrazek.cz/index.html",
+    "precache-manifest.402634d19e4214d299276d8052b06cf5.js": "https://jlcparts-dev.honzamrazek.cz/precache-manifest.402634d19e4214d299276d8052b06cf5.js",
+    "service-worker.js": "https://jlcparts-dev.honzamrazek.cz/service-worker.js",
+    "static/css/main.1d5ee949.chunk.css.map": "https://jlcparts-dev.honzamrazek.cz/static/css/main.1d5ee949.chunk.css.map",
+    "static/js/2.63e34fe3.chunk.js.LICENSE.txt": "https://jlcparts-dev.honzamrazek.cz/static/js/2.63e34fe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d521a0fc.js",
+    "static/js/2.63e34fe3.chunk.js",
+    "static/css/main.1d5ee949.chunk.css",
+    "static/js/main.daf8e87e.chunk.js"
+  ]
+}
